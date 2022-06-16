@@ -1,0 +1,18 @@
+[
+  {
+    "package": "backShift",
+    "oncran": true
+  },
+  {
+    "package": "CompareCausalNetworks",
+    "oncran": true
+  },
+  {
+    "package": "CondIndTests",
+    "oncran": true
+  },
+  {
+    "package": "nonlinearICP",
+    "oncran": true
+  }
+]
