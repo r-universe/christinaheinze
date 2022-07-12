@@ -13,15 +13,3 @@
 	url = https://github.com/christinaheinze/comparecausalnetworks
 	shallow = true
 	registered = true
-[submodule "CondIndTests"]
-	path = CondIndTests
-	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
-	shallow = true
-	subdir = CondIndTests
-	registered = true
-[submodule "nonlinearICP"]
-	path = nonlinearICP
-	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
-	shallow = true
-	subdir = nonlinearICP
-	registered = true

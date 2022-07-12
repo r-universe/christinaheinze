@@ -6,13 +6,5 @@
   {
     "package": "CompareCausalNetworks",
     "oncran": true
-  },
-  {
-    "package": "CondIndTests",
-    "oncran": true
-  },
-  {
-    "package": "nonlinearICP",
-    "oncran": true
   }
 ]
