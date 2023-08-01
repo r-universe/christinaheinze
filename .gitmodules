@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "backShift"]
-	path = backShift
-	url = https://github.com/christinaheinze/backshift
 [submodule "CompareCausalNetworks"]
 	path = CompareCausalNetworks
 	url = https://github.com/christinaheinze/comparecausalnetworks
@@ -12,6 +9,9 @@
 	path = CondIndTests
 	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
 	subdir = CondIndTests
+[submodule "backShift"]
+	path = backShift
+	url = https://github.com/christinaheinze/backshift
 [submodule "nonlinearICP"]
 	path = nonlinearICP
 	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
