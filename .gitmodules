@@ -9,10 +9,3 @@
 	path = CondIndTests
 	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
 	subdir = CondIndTests
-[submodule "backShift"]
-	path = backShift
-	url = https://github.com/christinaheinze/backshift
-[submodule "nonlinearICP"]
-	path = nonlinearICP
-	url = https://github.com/christinaheinze/nonlinearicp-and-condindtests
-	subdir = nonlinearICP
